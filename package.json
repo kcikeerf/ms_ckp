@@ -1,0 +1,22 @@
+{
+  "name": "ms-ckp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "morgan": "~1.8.1",
+    "pad-left": "^2.1.0",
+    "pad-right": "^0.2.2",
+    "promise": "^8.0.1",
+    "q": "^1.5.1",
+    "sequelize-cli": "^3.2.0",
+    "serve-favicon": "~2.4.2"
+  }
+}
